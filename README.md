@@ -8,3 +8,6 @@ Treinamento com as seguintes tecnologias:
   -
   -> React Native
   -
+  ---------------------------------------
+  Para inicializar backend: yarn dev
+  Para inicializar frontend: yarn start
