@@ -12,3 +12,5 @@ Treinamento com as seguintes tecnologias:
   * Para inicializar backend: yarn dev
   
   * Para inicializar frontend: yarn start
+  
+  * Para inicializar mobile: yarn start
